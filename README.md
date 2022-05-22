@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hasan AS
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/media/FTIlIBlVsAAzWU8?format=jpg&name=large)
+![Web Developer](https://pbs.twimg.com/media/FTVcT3gUcAAh2gY?format=jpg&name=small)
 
 I'm a  Front End Web developer. I have a passion for learning and sharing my knowledge with other as possible. I love ton solve real-world problems. 
 
