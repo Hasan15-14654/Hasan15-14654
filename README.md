@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there I'm Hasan AS
+### Hi there 👋, I'm Hasan AS
 #### Web Developer
 ![Web Developer](https://pbs.twimg.com/media/FTIlIBlVsAAzWU8?format=jpg&name=large)
 
