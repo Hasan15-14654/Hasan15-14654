@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abdus Salam Hasan
 #### Data Science and Machine learning 
-![Data Science and Machine learning]([https://pbs.twimg.com/media/FTVcT3gUcAAh2gY?format=jpg&name=small](https://www.facebook.com/photo?fbid=793076685153673&set=a.109727913488557))
+![Data Science and Machine learning](https://www.facebook.com/photo?fbid=793076685153673&set=a.109727913488557)
 
 I am a student Department of Computer Science and Engineering. I have a keen interest in Data Science, Computer Networks, and Web Development and currently working as a freelancer on fiverr marketplace. I'm currently polishing up my Data science skill. 
 
