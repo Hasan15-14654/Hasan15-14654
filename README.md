@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Hasan AS
-#### Web Developer
-![Web Developer](https://pbs.twimg.com/media/FTVcT3gUcAAh2gY?format=jpg&name=small)
+### Hi there 👋, I'm Abdus Salam Hasan
+#### Data Science and Machine learning 
+![Data Science and Machine learning]([https://pbs.twimg.com/media/FTVcT3gUcAAh2gY?format=jpg&name=small](https://www.facebook.com/photo?fbid=793076685153673&set=a.109727913488557))
 
-I'm a  Front End Web developer. I have a passion for learning and sharing my knowledge with other as possible. I love ton solve real-world problems. 
+I am a student Department of Computer Science and Engineering. I have a keen interest in Data Science, Computer Networks, and Web Development and currently working as a freelancer on fiverr marketplace. I'm currently polishing up my Data science skill. 
 
-Skills: JS / HTML / CSS
+Skills: HTML | CSS | Python | Numpy | Pandas | R.
 
 - 🔭 I’m currently working on Student life 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning Data Science and Machine learning  
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development  
+- 💬 You can ask me about Data Science and Machine Learning  
 - 📫 How to reach me: Facebook  
 
 
