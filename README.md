@@ -1,16 +1,15 @@
 ### Hi there 👋, I'm Abdus Salam Hasan
 #### Web Developer 
 ![Web Developer](https://www.facebook.com/photo/?fbid=793076685153673&set=a.109727913488557)
-<img href="https://www.facebook.com/photo/?fbid=793076685153673&set=a.109727913488557">
 
 I am a student in the Department of Computer Science and Engineering. I am keenly interested in Data Science, Computer Networks, and Web Development and I am currently working as a freelancer on the Fiverr marketplace. I'm currently polishing up my backend development skills. 
 
 Skills: HTML | CSS | Python | Django | Numpy | Pandas.
 
 - 🔭 I’m currently working on Student life 
-- 🌱 I’m currently learning Data Science and Machine learning  
+- 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 You can ask me about Data Science and Machine Learning  
+- 💬 You can ask me about Web development
 - 📫 How to reach me: Facebook  
 
 
