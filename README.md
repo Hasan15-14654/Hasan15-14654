@@ -30,3 +30,6 @@ Skills: HTML | CSS | Python | Django | Numpy | Pandas.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hasan15-14654)  
 
 ![Profile views](https://gpvc.arturio.dev/Hasan15-14654)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hasan15-14654&color=blue&style=flat-square)
+
