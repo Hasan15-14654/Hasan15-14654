@@ -33,3 +33,18 @@ Skills: HTML | CSS | Python | Django | Numpy | Pandas.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hasan15-14654&color=blue&style=flat-square)
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan15-14654&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan15-14654&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Socials
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+</p>
+
